@@ -470,10 +470,11 @@ This is just a small
 
 ### Non-sequitur
 
-These next two links are not related to ML. But since you're here, I have a hunch you might find them interesting too:
+These next few links are not related to ML. But since you're here, I have a hunch you might find them interesting too:
 
 * Maggie Appleton's ["A Brief History & Ethos of the Digital Garden"](https://maggieappleton.com/garden-history)
 * Shawn Wang's ["Digital Garden Terms of Service"](https://www.swyx.io/digital-garden-tos/)
+* [`MaggieAppleton/digital-gardeners`](https://github.com/MaggieAppleton/digital-gardeners#how-tos-and-tutorials)
 
 ----
 
